@@ -5,7 +5,7 @@
 
  - :mortar_board: Studies **Computer Science & Engineering** at PES University
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 🔭 I’m currently working on **Blockchain and DSA**
 
 - 🌱 I’m currently learning **Blockchain**
 
